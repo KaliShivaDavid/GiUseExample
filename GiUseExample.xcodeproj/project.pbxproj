@@ -12,6 +12,7 @@
 		63A317B01FB4CF1000BA41F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A317AE1FB4CF1000BA41F0 /* Main.storyboard */; };
 		63A317B21FB4CF1000BA41F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63A317B11FB4CF1000BA41F0 /* Assets.xcassets */; };
 		63A317B51FB4CF1000BA41F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A317B31FB4CF1000BA41F0 /* LaunchScreen.storyboard */; };
+		63A317BD1FB4DC9000BA41F0 /* MapForItenerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A317BC1FB4DC9000BA41F0 /* MapForItenerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		63A317B11FB4CF1000BA41F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63A317B41FB4CF1000BA41F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63A317B61FB4CF1000BA41F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63A317BC1FB4DC9000BA41F0 /* MapForItenerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItenerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				63A317B11FB4CF1000BA41F0 /* Assets.xcassets */,
 				63A317B31FB4CF1000BA41F0 /* LaunchScreen.storyboard */,
 				63A317B61FB4CF1000BA41F0 /* Info.plist */,
+				63A317BC1FB4DC9000BA41F0 /* MapForItenerary.swift */,
 			);
 			path = GiUseExample;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63A317BD1FB4DC9000BA41F0 /* MapForItenerary.swift in Sources */,
 				63A317AD1FB4CF1000BA41F0 /* ViewController.swift in Sources */,
 				63A317AB1FB4CF1000BA41F0 /* AppDelegate.swift in Sources */,
 			);
